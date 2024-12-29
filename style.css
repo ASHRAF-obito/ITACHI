@@ -1,0 +1,12 @@
+body{
+  background-color: skyblue;
+  justify-content: center;
+  text-align: center ;
+     }
+
+header{
+  background-color:lightblue;
+  color: black;
+  border-radius:10px;
+  padding:10px;
+}
